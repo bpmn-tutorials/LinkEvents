@@ -16,9 +16,9 @@ Just import this repository to the Business Central starts from 7.42.Final build
 > Tests that Links with different names do not overlaps at runtime
 ![](src/main/resources/com/myspace/linksproject/LinksProject.DifferentLinksTest-svg.svg)
 
-## MultipleCatchLinkTest.bpmn
-> Test one Throw Link can trigger all Catch Links with same Link name
-![](src/main/resources/com/myspace/linksproject/LinksProject.MultipleCatchLinkTest-svg.svg)
+## MultipleThrowLinkTest.bpmn
+> Test several Throw Link can trigger Catch Link
+![](src/main/resources/com/myspace/linksproject/LinksProject.MultipleTrowLinkTest-svg.svg)
 
 ## LoopLinkTest.bpmn
 > Tests loops created by Link Events
